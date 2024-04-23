@@ -6,18 +6,23 @@ const mockData = {
             cards: [
                 {
                     id: "01card",
-                    title: "Algo Num 1"
+                    title: " Num 1"
                 },
                 {
                     id: "02card",
-                    title: "React Card 02"
+                    title: "React Card"
                 },
             ]
         },
         "02list": {
             id: "02list",
-            title: "hello World",
-            cards: []
+            title: "Hello World",
+            cards: [
+                {
+                    id: "01card",
+                    title: "Lorem Ipsum"
+                },
+            ]
         }
     },
     listIds: ["01list", "02list"]
